@@ -1,7 +1,7 @@
 package cluster
 
 import (
-	"github.com/Shopify/sarama"
+	"gopkg.in/Shopify/sarama.v1"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )
